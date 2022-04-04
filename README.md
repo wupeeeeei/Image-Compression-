@@ -8,7 +8,8 @@ pycharm
 openCV 4.5.2.52
  
 程式說明：
-Encoding:
+
+>Encoding:
     1.imread()讀取圖片
     2.split()切成rgb通道  
     3.flatten()將rgb轉成1D array
@@ -16,7 +17,7 @@ Encoding:
     5.分別將rgb的list串接起來且前五項存起來
     6.輸出list成img_compress.2036
  
-Decoding:
+>Decoding:
     1.open()讀取.2036
     2.將rgb資訊分別存入list
     3.利用Run-Length的方式解碼
