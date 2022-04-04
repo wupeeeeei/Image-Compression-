@@ -26,6 +26,7 @@ openCV 4.5.2.52
  6. merge()將rgb合併成img
  7. imwrite()輸出
 
-測試圖片&結果
+>測試圖片&結果
+>>>>
 ![image](https://github.com/wupeeeeei/Image-Compression-/blob/main/%E5%9C%96%E7%89%872.png)
 ![image](https://github.com/wupeeeeei/Image-Compression-/blob/main/%E5%9C%96%E7%89%873.png)
