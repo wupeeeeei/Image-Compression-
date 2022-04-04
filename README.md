@@ -10,12 +10,12 @@ openCV 4.5.2.52
 程式說明：
 
 >Encoding:
-    1.imread()讀取圖片
-    2.split()切成rgb通道  
-    3.flatten()將rgb轉成1D array
-    4.利用Run-Length編碼
-    5.分別將rgb的list串接起來且前五項存起來
-    6.輸出list成img_compress.2036
+    1 imread()讀取圖片
+    2 split()切成rgb通道  
+    3 flatten()將rgb轉成1D array
+    4 利用Run-Length編碼
+    5 分別將rgb的list串接起來且前五項存起來
+    6 輸出list成img_compress.2036
  
 >Decoding:
     1.open()讀取.2036
